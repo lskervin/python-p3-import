@@ -1,4 +1,4 @@
-from .module1 import function1
+from .module3 import function1
 # from .. import module3
 
 function1()
